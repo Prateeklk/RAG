@@ -1,7 +1,7 @@
 # Corrective Retrieval Augmented Generation (CRAG) Implementation
 
 This repository implements concepts and techniques from the paper  
-**“Corrective Retrieval Augmented Generation”** (*arXiv:2401.15884*) by Shi-Qi Yan, Jia-Chen Gu, Yun Zhu, and Zhen-Hua Ling.:contentReference[oaicite:0]{index=0}
+**“Corrective Retrieval Augmented Generation”** (*arXiv:2401.15884*) by Shi-Qi Yan, Jia-Chen Gu, Yun Zhu, and Zhen-Hua Ling. : contentReference[oaicite:0]{index=0}
 
 ## 🔍 Paper Summary
 
@@ -17,10 +17,10 @@ The CRAG paper proposes enhancements to the standard Retrieval-Augmented Generat
    - *Ambiguous* — combine both internal and external knowledge for generation:contentReference[oaicite:2]{index=2}
 
 3. **Web Search as Complementary Knowledge**  
-   When retrieval is unreliable, external web search results are incorporated to augment or replace the original retrieval.:contentReference[oaicite:3]{index=3}
+   When retrieval is unreliable, external web search results are incorporated to augment or replace the original retrieval. : contentReference[oaicite:3]{index=3}
 
 4. **Decompose-Then-Recompose Refinement**  
-   Retrieved documents are segmented into smaller knowledge strips, scored, filtered, and recomposed to enrich the final context used in generation.:contentReference[oaicite:4]{index=4}
+   Retrieved documents are segmented into smaller knowledge strips, scored, filtered, and recomposed to enrich the final context used in generation. : contentReference[oaicite:4]{index=4}
 
 ---
 
